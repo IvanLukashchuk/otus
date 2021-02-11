@@ -63,6 +63,6 @@ Ingress-ы должны также вести на url arch.homework/ (как и
 
 ### Steps:
 1. Go to `/containers`
-2. Run `helm upgrade my-app ./my-chart/`
+2. Run `helm install my-app ./my-chart/`
 3. Import postman collection from: `/postman/otus_Ivan_Lukashchuk.postman_collection.json`
 4. Play with CRUD of the user object
